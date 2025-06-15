@@ -22,7 +22,7 @@ All notes are written clearly for revision, interview prep, and technical demons
 
 ---
 
-## 🧠 Key Concepts You’ll Learn
+## 🧠 Key Concepts
 
 - Internet structure and packet-switched networks
 - TCP/IP and OSI model communication
@@ -36,21 +36,15 @@ All notes are written clearly for revision, interview prep, and technical demons
 
 ## 🛠 Related Repositories
 
-- 🔐 [Cybersecurity Labs & Simulation](https://github.com/your-username/cybersec)
-- 📡 [Networking Labs with Packet Tracer](https://github.com/your-username/networking)
-- 💾 [Database & SQL Fundamentals](https://github.com/your-username/database-fundamentals)
-- 📋 [Information Systems Theory](https://github.com/your-username/information-systems)
+- 🔐 [Cybersecurity Labs & Simulation](https://github.com/inno2007/cybersec)
+- 📡 [Networking Labs with Packet Tracer](https://github.com/inno2007/networking)
+- 💾 [Database & SQL Fundamentals](https://github.com/inno2007/database-fundamentals)
+- 📋 [Information Systems Theory](https://github.com/inno2007/information-systems)
 
 ---
 
 ## 📬 About Me
 
-I’m Innosensius Sachio, an international Bachelor of IT student majoring in **Cybersecurity** at UTS, Sydney.  
-This repository is part of my learning journey and technical portfolio.
-
 📧 inno.sensiussachio@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/innosensius-sachio)
 
----
-
-🧠 *“The best way to learn networking is to build, break, and document it.”*
